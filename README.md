@@ -39,5 +39,5 @@ Jangan ragu untuk menghubungi jika Anda memiliki ide atau proyek yang menarik!
 
 ### 📫 Hubungi Saya
 
-* **LinkedIn**: [https://linkedin.com/in/nama-anda](https://linkedin.com/in/nama-anda)
-* **Email**: [emailanda@example.com](mailto:emailanda@example.com)
+* **LinkedIn**: https://www.linkedin.com/in/mochnurjamalludin/
+* **Email**: jamalchelski@gmail.com
